@@ -58,4 +58,6 @@ Modern dark theme, large readable fonts, and scrollable log area.
    pipwin install pyaudio
 
    
-
+## 📄 License
+This project is open for educational, research, and personal use.
+Commercial use not allowed without permission.
