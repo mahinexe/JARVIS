@@ -18,12 +18,6 @@ Pulls smart answers from the web using DuckDuckGo's Instant Answer API.
 ✅ **Dynamic Website Opener**  
 Say “open facebook” or “open github” — Jarvis will launch `https://facebook.com`, etc.
 
-✅ **Custom Responses**  
-Try:  
-- “Who made you?”  
-- “Hey Jarvis who created you?”  
-→ Jarvis will tell you proudly who its creator is.
-
 ✅ **Stop Speaking Button**  
 Stops Jarvis from continuing to speak the current response.
 
