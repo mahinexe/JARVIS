@@ -51,6 +51,11 @@ Modern dark theme, large readable fonts, and scrollable log area.
    pip install pipwin
    pipwin install pyaudio
 
+## 📸 Screenshots
+
+### 🖥️ Main Interface
+![Jarvis GUI](Screenshot 2025-06-30 132610.png)
+
    
 ## 📄 License
 This project is open for educational, research, and personal use.
