@@ -54,7 +54,9 @@ Modern dark theme, large readable fonts, and scrollable log area.
 ## 📸 Screenshots
 
 ### 🖥️ Main Interface
-![Jarvis GUI](Screenshot 2025-06-30 132610.png)
+
+![Jarvis Screenshot](Screenshot%202025-06-30%20132610.png)
+
 
    
 ## 📄 License
