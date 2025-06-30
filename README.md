@@ -34,9 +34,6 @@ Modern dark theme, large readable fonts, and scrollable log area.
 - Press `Enter` to submit text  
 - Press `Esc` to exit
 
-✅ **Made by Watermark**  
-Bottom of the GUI credits the creator.
-
 ---
 
 ## 🛠️ Technologies Used
@@ -57,3 +54,8 @@ Bottom of the GUI credits the creator.
 1. **Install Required Packages:**
    ```bash
    pip install pyttsx3 SpeechRecognition requests
+   pip install pipwin
+   pipwin install pyaudio
+
+   
+
